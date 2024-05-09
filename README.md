@@ -2,12 +2,13 @@
 # Overview
 This project is a simple console-based Tic-Tac-Toe game written in Java. The game allows a player to compete against an automated opponent that uses the minimax algorithm to determine its moves. The board is displayed in the console, and players input their moves by selecting numbers from 1 to 9, corresponding to positions on the game board.
 
-Features
+# Features
 Play against a computer-controlled opponent.
 Automatic detection of win, loss, or tie.
 Repeated gameplay until the user decides to quit.
 Clear display of the game board and instructions.
-How to Run
+
+# How to Run
 To run this game, you will need a Java Runtime Environment (JRE) installed on your system. You can compile and run the game using the following commands in your terminal:
 
 1. Compile the Java program:
