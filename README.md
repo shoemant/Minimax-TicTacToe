@@ -1,4 +1,4 @@
-# TicTacToe
+# Unwinnable TicTacToe
 # Overview
 This project is a simple console-based Tic-Tac-Toe game written in Java. The game allows a player to compete against an automated opponent that uses the minimax algorithm to determine its moves. The board is displayed in the console, and players input their moves by selecting numbers from 1 to 9, corresponding to positions on the game board.
 
